@@ -1,9 +1,9 @@
 # Hate-Speech
 ### Hate speech dataset from a white supremacist forum
 
-**`hate`** file contains only the sentences that are considered as `hate speech`. 
-**`nohate`** file contains only the sentences that are not considered as `hate speech`.
-Both `hate` and `noHate` sentences can be found in the **`hate_speech`** file.
+1. **`hate`** file contains only the sentences that are considered as `hate speech`. 
+2. **`nohate`** file contains only the sentences that are not considered as `hate speech`.
+3. Both `hate` and `noHate` sentences can be found in the **`hate_speech`** file.
 
 **Note** that in each file, one line is equivalent to one sentence.
 
