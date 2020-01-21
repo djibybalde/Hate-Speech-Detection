@@ -3,7 +3,7 @@
 
 1. **`hate`** file contains only the sentences that are considered as `hate speech`. 
 2. **`nohate`** file contains only the sentences that are not considered as `hate speech`.
-3. Both `hate` and `noHate` sentences can be found in the **`hate_speech`** file.
+3. Both `hate` and `nohate` sentences can be found in the **`hate_speech`** file.
 
 **Note** that in each file, one line is equivalent to one sentence.
 
